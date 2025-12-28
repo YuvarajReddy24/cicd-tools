@@ -8,13 +8,13 @@ variable "environment" {
 
 variable "zone_name" {
   type        = string
-  default     = "daws86s.fun"
+  default     = "yuvarajreddy.fun"
   description = "description"
 }
 
 variable "zone_id" {
   type        = string
-  default     = "Z0948150OFPSYTNVYZOY"
+  default     = "Z00777701H4XIKRG6FJNQ"
   description = "description"
 }
 
